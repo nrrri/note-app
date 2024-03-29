@@ -38,5 +38,3 @@ This project is a React application designed to manage notes with associated tag
 ## Contributions:
 
 Contributions to this project are welcome! Feel free to fork the repository, make changes, and submit pull requests for review and inclusion. Collaborative efforts can help enhance the functionality and usability of the application, benefiting the entire community.
-
----
