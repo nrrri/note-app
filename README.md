@@ -34,7 +34,3 @@ This project is a React application designed to manage notes with associated tag
 - **Authentication:** Integrate authentication to secure user data and enable multi-user support, ensuring data privacy and security.
 - **Deployment:** Deploy the application to a hosting platform for public access, enabling users to access the application globally.
 - **Testing:** Implement unit tests and integration tests to ensure application reliability and robustness, improving overall quality.
-
-## Contributions:
-
-Contributions to this project are welcome! Feel free to fork the repository, make changes, and submit pull requests for review and inclusion. Collaborative efforts can help enhance the functionality and usability of the application, benefiting the entire community.
